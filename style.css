@@ -16,7 +16,8 @@ background: linear-gradient(to right, #000000, #EB5757); /* W3C, IE 10+/ Edge, F
 
   color: white;
   margin-bottom: 10px;
-  width: 100px;
+  width: 200px;
+  height: 80px;
 }
 .card h2{
   padding-top: 10px;
@@ -43,7 +44,8 @@ background: -webkit-linear-gradient(to right, #E684AE, #79CBCA, #77A1D3);  /* Ch
 background: linear-gradient(to right, #E684AE, #79CBCA, #77A1D3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 color: white;
 margin-bottom: 10px;
-width: 100px;
+width: 200px;
+height: 80px;
 }
 .card2 h2{
    padding-top: 10px;
@@ -69,7 +71,8 @@ background: linear-gradient(to right, #292E49, #536976); /* W3C, IE 10+/ Edge, F
   
   color: white;
   margin-bottom: 10px;
-  width: 100px;
+  width: 200px;
+  height: 80px;
 }
 .card3 h2{
    padding-top: 10px;
@@ -95,7 +98,8 @@ background: linear-gradient(to right, #DD2476, #FF512F); /* W3C, IE 10+/ Edge, F
 
   color: white;
   margin-bottom: 10px;
-  width: 100px;
+  width: 200px;
+  height: 80px;
 }
 .card4 h2{
    padding-top: 10px;
