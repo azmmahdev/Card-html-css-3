@@ -25,7 +25,7 @@ background: linear-gradient(to right, #000000, #EB5757); /* W3C, IE 10+/ Edge, F
 }
 .card p{
   font-size: 14px;
-  color: black;
+  color: white;
 }
 
 /* card 2 3 4 */
@@ -53,7 +53,7 @@ height: 80px;
 }
 .card2 p{
   font-size: 14px;
-  color: black;
+  color: white;
   }
 
 .card3{
@@ -80,7 +80,7 @@ background: linear-gradient(to right, #292E49, #536976); /* W3C, IE 10+/ Edge, F
 }
 .card3 p{
   font-size: 14px;
-  color: black;
+  color: white;
   }
   
 .card4{
